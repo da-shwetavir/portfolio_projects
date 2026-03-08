@@ -21,7 +21,7 @@ This dashboard answers important HR analytics questions:
 
 ## 🗄️ SQL Analysis
 SQL was used to extract and analyze insights before visualization.
-- [SQL Queries](https://github.com/da-shwetavir/portfolio_projects/blob/main/Power%20BI/1.%20Employee%20Attrition%20Analytics/sql/SQL%20Queries-Employee%20Attrition.sql)
+- [SQL Queries](https://github.com/da-shwetavir/portfolio_projects/blob/main/Tableau/1.%20Employee%20Attrition/sql/SQL%20Queries-Employee%20Attrition.sql)
 ## 📂 Project Structure
 ```Employee-Attrition-Dashboard│
 ├── dataset
@@ -42,7 +42,7 @@ SQL was used to extract and analyze insights before visualization.
 - Data Cleaning
 - SQL Data Analysis *(Queries)*
 - Data Visualization
-- Power BI Dashboard Design *(DAX, Calculated Columns, Measures)*
+- Tableau BI Dashboard Design *(Calculated Columns, Calculated measures, Parameter, Filters)*
 
 ## 💼 Why This Project Matters
 Employee attrition can significantly impact organizational productivity and costs.
