@@ -25,16 +25,16 @@ SQL was used to extract and analyze insights before visualization.
 ## 📂 Project Structure
 ```Employee-Attrition-Dashboard│
 ├── dataset
-│   └── employee_attrition.csv
+│   └── HR Data.xlsx
 │
 ├── sql
-│   └── attrition_analysis.sql
+│   └── SQL Queries-Employee Attrition.sql
 │
 ├── dashboard
-│   └── employee_attrition_dashboard.pbix
+│   └── Employee Attrition Dashboard.pbix
 │
 ├── visuals
-│   └── dashboard_preview.png
+│   └── Power BI- Employees Attrition Dashboard.png
 │
 └── README.md
 ```
