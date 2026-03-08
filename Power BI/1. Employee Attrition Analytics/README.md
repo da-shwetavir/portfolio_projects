@@ -6,6 +6,7 @@ The goal is to help HR teams understand which **departments, job roles, educatio
 The dataset was analyzed using **SQL queries** and visualized through an interactive **Power BI** dashboard.
 
 ## 🖥️ Dashboard Preview
+![Dashboard](https://github.com/da-shwetavir/portfolio_projects/blob/main/Power%20BI/1.%20Employee%20Attrition%20Analytics/visuals/Power%20BI-%20Employees%20Attrition%20Dashboard.png)
 #### 🎯 Key Business Questions
 This dashboard answers important HR analytics questions:
 - What is the **overall attrition rate**?
@@ -20,7 +21,7 @@ This dashboard answers important HR analytics questions:
 
 ## 🗄️ SQL Analysis
 SQL was used to extract and analyze insights before visualization.
-Link
+- [SQL Queries](https://github.com/da-shwetavir/portfolio_projects/blob/main/Power%20BI/1.%20Employee%20Attrition%20Analytics/sql/SQL%20Queries-Employee%20Attrition.sql)
 ## 📂 Project Structure
 ```Employee-Attrition-Dashboard│
 ├── dataset
