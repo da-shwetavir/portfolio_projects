@@ -36,7 +36,7 @@ The goal of this portfolio is to demonstrate the ability to:
 
 
 ## 👩‍💻 Author
-***Shweta Vir***
+***Shweta Vir*** \
 Aspiring **Data Analyst**
 
 💡 Skills:
