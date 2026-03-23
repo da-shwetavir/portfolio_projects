@@ -17,11 +17,11 @@ This project analyses 17 years of wait time data (2008–2024) published by the 
 
 | Page | Description |
 |------|-------------|
-| ![Highlight](screenshots/Highlight.png) | **Overview & KPIs** — Scope, reporting level, time span |
-| ![Spotlight](screenshots/Spotlight Insight.png) | **Spotlight Insights** — Longest/shortest waits in Canada |
-| ![Heatmap](screenshots/WaitTime_Benchmark.png) | **Wait Time Heatmap** — P50 days & % benchmark toggle |
-| ![Rankings](screenshots/Provincial Ranking.png) | **Provincial Rankings** — Sort by procedure, compare provinces |
-| ![Trends](screenshots/Wait Time Trend.png) | **Wait Time Trends** — 2010–2024 with COVID annotation |
+| ![Highlight](https://github.com/da-shwetavir/portfolio_projects/blob/main/Power%20BI/2.%20Hospital%20Wait%20Time/visuals/Highlight.png) | **Overview & KPIs** — Scope, reporting level, time span |
+| ![Spotlight](https://github.com/da-shwetavir/portfolio_projects/blob/main/Power%20BI/2.%20Hospital%20Wait%20Time/visuals/Spotlight%20Insight.png) | **Spotlight Insights** — Longest/shortest waits in Canada |
+| ![Heatmap](https://github.com/da-shwetavir/portfolio_projects/blob/main/Power%20BI/2.%20Hospital%20Wait%20Time/visuals/WaitTime%20Benchmark.png) | **Wait Time Heatmap** — P50 days & % benchmark toggle |
+| ![Rankings](https://github.com/da-shwetavir/portfolio_projects/blob/main/Power%20BI/2.%20Hospital%20Wait%20Time/visuals/Provincial%20Ranking.png) | **Provincial Rankings** — Sort by procedure, compare provinces |
+| ![Trends](https://github.com/da-shwetavir/portfolio_projects/blob/main/Power%20BI/2.%20Hospital%20Wait%20Time/visuals/Wait%20Time%20Trend.png) | **Wait Time Trends** — 2010–2024 with COVID annotation |
 
 ---
 
